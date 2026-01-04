@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello there, I'm JuanK 👋</h1>
+  <h1>Hello there, I'm Juan J. Alzate G. 👋</h1>
   <img src="./Banner1.png" alt="Banner" width="800">
 </div>
 
 ## 💫 About Me
 - 🎓 Dedicated **Informatic Engineer Student**  
 - 🚀 Seeking new challenges  
-- 💻 Passionate about learning **software development technologies**  
+- 💻 Passionate about learning **Software Development Technologies**  
 - 🌱 Currently improving my skills as **Full Stack Developer**  
 - 🎯 Goal: Build efficient, scalable, and secure backend systems  
 
@@ -38,7 +38,7 @@
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 #### 🧠 Other
-  
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-007396?style=for-the-badge)
 
 ### 🤝 Soft Skills
 - 🧩 Teamwork
@@ -52,14 +52,14 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan_alzate82212&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanalzate82212&layout=compact&theme=tokyonight" height="160px"/>
 </div>
 
 ---
 
 ## 📫 Connect With Me
 <div align="center">
-  <a href="https://github.com/juan_alzate82212" target="_blank">
+  <a href="https://github.com/juanalzate82212" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/juanjosealzategarcia128" target="_blank">
