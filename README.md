@@ -9,7 +9,7 @@
 - 💻 Passionate about learning **Software Development Technologies**  
 - 🌱 Currently improving my skills as **Full Stack Developer**  
 - 🎯 Goal: Build efficient, scalable, and secure backend systems  
-- 📫 How to reach me: **alzateg128@gmail.com**
+- 📫 How to reach me: E-mail: **alzateg128@gmail.com** & Instagram: **@juanalzat10*
 ---
 
 ## 🧠 Skills
@@ -75,6 +75,9 @@
   </a>
   <a href="https://www.linkedin.com/in/juanjosealzategarcia128" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/juanalzat10" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
