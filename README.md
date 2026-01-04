@@ -8,8 +8,8 @@
 - 🚀 Seeking new challenges  
 - 💻 Passionate about learning **Software Development Technologies**  
 - 🌱 Currently improving my skills as **Full Stack Developer**  
-- 🎯 Goal: Build efficient, scalable, and secure backend systems  
-- 📫 How to reach me: E-mail: **alzateg128@gmail.com** & Instagram: **@juanalzat10*
+- 🎯 Goal: Build efficient, scalable, and secure softwares  
+- 📫 How to reach me: E-mail: **alzateg128@gmail.com** & Instagram: **@juanalzat10**
 ---
 
 ## 🧠 Skills
@@ -42,20 +42,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### 🚀 DevOps/Containers
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 #### 🧰 Tools & IDEs
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤝 Soft Skills
 - 🧩 Teamwork
-- 🏢 Collaboration  
+- 🏢 Collaboration 
 - 🧠 Problem-solving mindset  
 - 🔄 Continuous learning  
 - 🔍 Attention to detail  
  
-
 ---
 
 ## 📈 GitHub Stats
