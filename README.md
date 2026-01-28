@@ -4,7 +4,7 @@
 </div>
 
 ## 💫 About Me
-- 🎓 Dedicated **Computer Engineer Student**  
+- 🎓 Dedicated **Informatic Engineer Student**  
 - 🚀 Seeking new challenges  
 - 💻 Passionate about learning **Software Development Technologies**  
 - 🌱 Currently improving my skills as **Full Stack Developer**  
