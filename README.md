@@ -28,6 +28,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-007396?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
